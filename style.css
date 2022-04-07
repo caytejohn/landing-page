@@ -50,6 +50,7 @@ button {
 	height: 2rem;
 	border-radius: 8px;
 	border: 0 solid #3882f6;
+	color: #f9faf8;
 }
 
 .container {
@@ -93,6 +94,10 @@ button {
 #logo {
 	font-size: 24px;
 	color: #e5e7eb;
+}
+
+button:hover {
+	background-color: #1e90ff;
 }
 
 h2 {
