@@ -11,7 +11,7 @@ header {
 	width: 100%;
 	display: flex;
 	flex-direction: column;
-	padding: 1rem 13em;
+	padding: 1rem;
 }
 
 nav {
