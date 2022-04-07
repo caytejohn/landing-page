@@ -149,6 +149,10 @@ h2 {
 	padding: 6rem 17rem;
 }
 
+.quotes {
+	width: 900px;
+}
+
 .quotes-container p {
 	font-size: 36px;
 	font-style: italic;
