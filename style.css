@@ -94,3 +94,40 @@ button {
 	font-size: 24px;
 	color: #e5e7eb;
 }
+
+h2 {
+	text-align: center;
+	font-size: 36px;
+	font-weight: 800;
+	color: #1f2937;
+}
+
+.main-container {
+	padding: 1rem 15rem;
+	margin: 22px 16rem;
+}
+
+.box-container {
+	display: flex;
+	justify-content: space-evenly;
+	margin: 2rem 0;
+}
+
+.inner-container {
+	display: flex;
+	flex-direction: column;
+}
+
+.box {
+	background-color: white;
+	border: 3px solid #3882f6;
+	width: 10rem;
+	height: 10rem;
+	border-radius: 8px;
+}
+
+.inner-container p {
+	width: 140px;
+	text-align: center;
+	margin-top: 4px;
+}
