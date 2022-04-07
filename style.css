@@ -148,3 +148,7 @@ h2 {
 	background-color: #e5e7eb;
 	padding: 6rem 17rem;
 }
+
+.quotes-container p {
+	font-size: 36px;
+}
