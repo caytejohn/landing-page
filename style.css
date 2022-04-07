@@ -155,3 +155,8 @@ h2 {
 	font-weight: 300;
 	color: #1f2937;
 }
+
+h3 {
+	display: flex;
+	justify-content: flex-end;
+}
