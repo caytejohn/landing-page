@@ -170,7 +170,7 @@ h3 {
 /* Sign up section */
 
 .signup {
-	padding: 3rem 8rem;
+	padding: 2rem 6rem;
 	margin: 4rem 26rem;
 	background-color: #0096ff;
 	border-radius: 6px;
@@ -180,6 +180,10 @@ h3 {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
+}
+
+h4 {
+	font-weight: 700;
 }
 
 h4,
