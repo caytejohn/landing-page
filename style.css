@@ -167,3 +167,28 @@ h3 {
 	display: flex;
 	justify-content: flex-end;
 }
+/* Sign up section */
+
+.signup {
+	padding: 3rem 8rem;
+	margin: 4rem 26rem;
+	background-color: #0096ff;
+	border-radius: 6px;
+}
+
+.signup-container {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+h4,
+.left p {
+	color: #e5e7eb;
+}
+
+.signup-btn {
+	background-color: #0096ff;
+	border-radius: 8px;
+	border: 2px solid #e5e7eb;
+}
